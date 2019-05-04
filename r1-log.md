@@ -6,3 +6,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D1 
 Solved a CodeChef problem
+
+### R1D2
+solved a CodeChef problem
