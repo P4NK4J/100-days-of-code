@@ -21,3 +21,5 @@
 **Link to work:** 
 
    1. [Chef And Operators](https://www.codechef.com/problems/CHOPRT) [- solution](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/chef_and_operators.py)
+  
+  2. [Attendance](https://www.codechef.com/problems/ATTND) [- solution](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/Attendance.py)
