@@ -9,3 +9,6 @@ Solved a CodeChef problem
 
 ### R1D2
 solved a CodeChef problem
+
+### R1D2
+solved a CodeChef problem
