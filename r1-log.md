@@ -10,5 +10,8 @@ Solved a CodeChef problem
 ### R1D2
 solved a CodeChef problem
 
-### R1D2
+### R1D3
 solved a CodeChef problem
+
+### R1D4
+solved a codechef problem
