@@ -34,3 +34,12 @@
    1. [Chef And Two Strings](https://www.codechef.com/problems/CHEFSTLT) [- solution ](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/chef_and_two_strings.py)
    
    2. [Finding Square Roots](https://www.codechef.com/problems/FSQRT) [- solution](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/finding_square_root.py)
+   
+   ### Day 2: May 4, 2019
+
+**Today's Progress**: solved practice problems on codechef
+
+**Thoughts:** improvisation in coding format makes the code look better
+
+**Link to work:** 
+    1. [Ada School](https://www.codechef.com/problems/ADASCOOL) [- solution](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/ada_school.py)
