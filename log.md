@@ -45,7 +45,7 @@
    1. [Ada School](https://www.codechef.com/problems/ADASCOOL) [- solution](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/ada_school.py)
 
 
-   ### Day 4: May 7, 2019
+   ### Day 5: May 7, 2019
 
 **Today's Progress**: solved practice problems on codechef
 
@@ -53,3 +53,13 @@
 
 **Link to work:** 
    1. [Puppy And sum](https://www.codechef.com/problems/PPSUM) [- solution](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/puppy_and_sum.py)
+   
+   
+   ### Day 6: May 8, 2019
+
+**Today's Progress**: solved practice problems on codechef
+
+**Thoughts:** improvisation in coding format makes the code look better
+
+**Link to work:** 
+   1. [Chef And Bored Games](https://www.codechef.com/problems/PCJ18B) [- solution](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/chef_and_bored_games.py)
