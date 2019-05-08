@@ -18,3 +18,6 @@ solved a codechef problem
 
 ### R1D5
 solved a codechef problem
+
+### R1D6
+solved a codechef problem
