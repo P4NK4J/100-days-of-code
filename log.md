@@ -63,3 +63,15 @@
 
 **Link to work:** 
    1. [Chef And Bored Games](https://www.codechef.com/problems/PCJ18B) [- solution](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/chef_and_bored_games.py)
+
+
+   ### Day 7: May 9, 2019
+
+**Today's Progress**: solved practice problems on codechef
+
+**Thoughts:** improvisation in coding format makes the code look better
+
+**Link to work:** 
+   1. [fibonacci (memoized)](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/fibonacci_memoized.py)
+   
+   2. [fibonacci (tabulated)](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/fibonacci_tabulation.py)
