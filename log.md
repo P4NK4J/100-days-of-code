@@ -75,3 +75,14 @@
    1. [fibonacci (memoized)](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/fibonacci_memoized.py)
    
    2. [fibonacci (tabulated)](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/fibonacci_tabulation.py)
+   
+   ### Day 8: May 10, 2019
+
+**Today's Progress**: solved practice problems on codechef
+
+**Thoughts:** improvisation in coding format makes the code look better
+
+**Link to work:** 
+   1. [ceasercipher](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/ceasercipher.py)
+   
+   2. [palindromeindex](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/palindromeindex.py)
