@@ -21,3 +21,9 @@ solved a codechef problem
 
 ### R1D6
 solved a codechef problem
+
+### R1D7
+started algorithms with dynamic programming basics
+
+### R1D8
+solver 2 random problems 
