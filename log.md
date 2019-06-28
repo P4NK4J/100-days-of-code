@@ -86,3 +86,12 @@
    1. [ceasercipher](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/ceasercipher.py)
    
    2. [palindromeindex](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/palindromeindex.py)
+ 
+   ### Day 9: May 11, 2019
+   
+**Today's Progress**: learned LIS algorithm (dynamic programming)
+
+**Thoughts:** optimization is better than naive solutions
+
+**Link to work:**
+   1. [Longest increasing subsequence](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/LIS.py)
