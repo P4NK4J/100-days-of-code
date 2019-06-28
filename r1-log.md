@@ -27,3 +27,7 @@ started algorithms with dynamic programming basics
 
 ### R1D8
 solver 2 random problems 
+
+### R1D9
+solver LIS problem using dynamic programming 
+
