@@ -104,3 +104,12 @@
 
 **Link to work:**
    1. [Longest Common Subsequence](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/LCS_using_DP.py)
+   
+   ### Day 11: May 13, 2019
+   
+**Today's Progress**: solved longest common increasing subsequence problem (dynamic programming)
+
+**Thoughts:** realtivity between two algorithms sometimes make things tricky 
+
+**Link to work:**
+   1.[longest Common Increasing Subsequence](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/LCS_%2B_LIS.py)
