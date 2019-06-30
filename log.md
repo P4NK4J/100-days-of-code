@@ -103,7 +103,7 @@
 **Thoughts:** optimization is better than naive solutions
 
 **Link to work:**
-   1. [Longest Common Subsequence](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/LCS_using_DP.py)
+  1. [Longest Common Subsequence](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/LCS_using_DP.py)
    
    ### Day 11: May 13, 2019
    
