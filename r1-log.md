@@ -34,4 +34,7 @@ solver LIS problem using dynamic programming
 ### R1D10
 solver LCS problem using dynamic programming 
 
+### R1D11
+solver LCIS problem using dynamic programming 
+
 
