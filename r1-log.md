@@ -31,3 +31,7 @@ solver 2 random problems
 ### R1D9
 solver LIS problem using dynamic programming 
 
+### R1D10
+solver LCS problem using dynamic programming 
+
+
