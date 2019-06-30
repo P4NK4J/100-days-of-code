@@ -112,4 +112,4 @@
 **Thoughts:** realtivity between two algorithms sometimes make things tricky 
 
 **Link to work:**
-   1.[longest Common Increasing Subsequence](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/LCS_%2B_LIS.py)
+  1.[longest Common Increasing Subsequence](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/LCS_%2B_LIS.py)
