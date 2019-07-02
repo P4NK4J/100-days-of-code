@@ -13,7 +13,7 @@
    2 [Decrement OR Increment](https://www.codechef.com/problems/DECINC) [- solution](https://github.com/P4NK4J/codechef/blob/master/practice%20problems/beginner/decrement_or_increment.py)
 
 ### Day 2: May 4, 2019
-
+99
 **Today's Progress**: solved two practice problems on codechef
 
 **Thoughts:** improvisation in coding format makes the code look better
@@ -122,3 +122,12 @@
 
 **Link to work:**
   1. [Edit Distance](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/Edit_Distance.py)
+
+### Day 13: May 15, 2019
+   
+**Today's Progress**: solved Edit Distance problem (dynamic programming)
+
+**Thoughts:** string manipulation......!!
+
+**Link to work:**
+  1. [Edit Distance With LCS](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/Edit_Distance_using_LCS.py)
