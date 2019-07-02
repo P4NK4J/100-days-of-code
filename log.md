@@ -125,7 +125,7 @@
 
 ### Day 13: May 15, 2019
    
-**Today's Progress**: solved Edit Distance problem (dynamic programming)
+**Today's Progress**: solved Edit Distance problem using LCS (dynamic programming)
 
 **Thoughts:** string manipulation......!!
 
