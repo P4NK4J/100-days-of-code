@@ -113,3 +113,12 @@
 
 **Link to work:**
   1. [longest Common Increasing Subsequence](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/LCS_%2B_LIS.py)
+
+### Day 12: May 14, 2019
+   
+**Today's Progress**: solved Edit Distance problem (dynamic programming)
+
+**Thoughts:** string manipulation......!!
+
+**Link to work:**
+   1. [Edit Distance] (https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/Edit_Distance.py)
