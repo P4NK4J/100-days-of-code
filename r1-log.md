@@ -40,3 +40,6 @@ solver LCIS problem using dynamic programming
 ### R1D12
 solver Edit Distance problem using dynamic programming 
 
+### R1D13
+solver Edit Distance combined with LCS problem using dynamic programming 
+
