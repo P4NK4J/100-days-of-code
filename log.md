@@ -121,4 +121,4 @@
 **Thoughts:** string manipulation......!!
 
 **Link to work:**
-  1. [Edit Distance] (https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/Edit_Distance.py)
+  1. [Edit Distance](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/Edit_Distance.py)
