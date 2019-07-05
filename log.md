@@ -140,3 +140,23 @@
 
 **Link to work:**
   1. [WeightOn App](https://github.com/P4NK4J/Android_Kotilin_WeightOn_app)
+
+### Day 15: May 17, 2019
+   
+**Today's Progress**: solved hacker rank problem
+
+**Thoughts:** buildup logics to excel in coding
+
+**Link to work:**
+  1. [climbing the leaderboard](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/climbing_the_leaderboard.py)
+
+### Day 16: May 18, 2019
+   
+**Today's Progress**: solved hacker rank problem
+
+**Thoughts:** implementation of logics is  interesting somehow 
+
+**Link to work:**
+  1. [non_divisible_subset](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/non_divisible_subset.py)
+
+  
