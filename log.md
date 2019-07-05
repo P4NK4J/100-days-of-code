@@ -131,3 +131,12 @@
 
 **Link to work:**
   1. [Edit Distance With LCS](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/Edit_Distance_using_LCS.py)
+
+### Day 14: May 16, 2019
+   
+**Today's Progress**: created first android application
+
+**Thoughts:** development tools are interesting somehow 
+
+**Link to work:**
+  1. [WeightOn App](https://github.com/P4NK4J/Android_Kotilin_WeightOn_app)
