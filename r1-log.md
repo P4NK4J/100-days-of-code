@@ -43,3 +43,12 @@ solver Edit Distance problem using dynamic programming
 ### R1D13
 solver Edit Distance combined with LCS problem using dynamic programming 
 
+### R1D14
+developed first android application
+
+### R1D15
+solved hacker rank problem
+
+### R1D16
+solved hacker rank problem
+
