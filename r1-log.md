@@ -52,3 +52,12 @@ solved hacker rank problem
 ### R1D16
 solved hacker rank problem
 
+### R1D17
+solved hacker rank problem
+
+### R1D18
+solved hacker rank problem
+
+### R1D19
+solved hacker rank problem
+
