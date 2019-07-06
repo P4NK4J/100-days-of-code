@@ -159,4 +159,32 @@
 **Link to work:**
   1. [non_divisible_subset](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/non_divisible_subset.py)
 
+### Day 17: May 19, 2019
+   
+**Today's Progress**: solved hacker rank problem
+
+**Thoughts:** implementation of logics is  interesting somehow 
+
+**Link to work:**
+  1. [circular array rotation](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/Circular_Array_Rotation.py)
+  
+### Day 18: May 20, 2019
+   
+**Today's Progress**: solved hacker rank problem
+
+**Thoughts:** implementation of logics is  interesting somehow 
+
+**Link to work:** 
+  1. [append and delete](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/append_and_delete.py)
+  
+### Day 19: May 21, 2019
+   
+**Today's Progress**: solved hacker rank problem
+
+**Thoughts:** implementation of logics is  interesting somehow 
+
+**Link to work:** 
+  1. [drawing book](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/drawing_book.py)
+  2. [electronics shop](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/electronics_shop.py)
+
   
