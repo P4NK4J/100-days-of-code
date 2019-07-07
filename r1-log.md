@@ -61,3 +61,11 @@ solved hacker rank problem
 ### R1D19
 solved hacker rank problem
 
+### R1D20
+worked on python dictionary application
+
+### R1D21
+worked on python dictionary application
+
+### R1D22
+worked on python dictionary application
