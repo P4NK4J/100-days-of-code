@@ -187,4 +187,29 @@
   1. [drawing book](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/drawing_book.py)
   2. [electronics shop](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/electronics_shop.py)
 
+### Day 20: May 22, 2019
+   
+**Today's Progress**: made a basic code for a dictionary in python
+
+**Thoughts:** learn to implement solutions for real life problems 
+
+**Link to work:** 
+  1. [Mini_Merriam](https://github.com/P4NK4J/Mini_Merriam/blob/master/dictionary.py)
   
+### Day 21: May 23, 2019
+   
+**Today's Progress**: applied file handling to the application
+
+**Thoughts:** learn to implement solutions for real life problems 
+
+**Link to work:** 
+  1. [Mini_Merriam](https://github.com/P4NK4J/Mini_Merriam/blob/master/dictionary.py)
+  
+### Day 22: May 24, 2019
+   
+**Today's Progress**: gave a finish to the same application script
+
+**Thoughts:** learn to implement solutions for real life problems 
+
+**Link to work:** 
+  1. [Mini_Merriam](https://github.com/P4NK4J/Mini_Merriam/blob/master/dictionary.py)
