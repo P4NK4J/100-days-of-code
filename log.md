@@ -213,3 +213,76 @@
 
 **Link to work:** 
   1. [Mini_Merriam](https://github.com/P4NK4J/Mini_Merriam/blob/master/dictionary.py)
+
+### Day 23: May 25, 2019
+   
+**Today's Progress**: learned basic kotlin programs
+
+**Thoughts:** try something new everyday 
+
+**Link to work:** 
+  1. [basic kotlin codes](https://github.com/P4NK4J/Learning_Kotlin)
+  
+### Day 24: May 26, 2019
+   
+**Today's Progress**: learned basic kotlin programs
+
+**Thoughts:** try something new everyday 
+
+**Link to work:**  
+  1. [data types in kotlin](https://github.com/P4NK4J/Learning_Kotlin)
+  
+### Day 25: May 27, 2019
+   
+**Today's Progress**: learned basic kotlin programs
+
+**Thoughts:** try something new everyday 
+
+**Link to work:**
+  1. [conditional statements in kotlin](https://github.com/P4NK4J/Learning_Kotlin)
+  
+### Day 26: May 28, 2019
+   
+**Today's Progress**: learned functions implementations in kotlin
+
+**Thoughts:** try something new everyday 
+
+**Link to work:**
+  [functions in kotlin](https://github.com/P4NK4J/Learning_Kotlin)
+  
+### Day 27: May 29, 2019
+   
+**Today's Progress**: learned oop in kotlin
+
+**Thoughts:** try something new everyday 
+
+**Link to work:**
+  [oop concepts in kotlin](https://github.com/P4NK4J/Learning_Kotlin)
+  
+### Day 28: May 30, 2019
+   
+**Today's Progress**: learned file handling in kotlin
+
+**Thoughts:** try something new everyday 
+
+**Link to work:**
+  [file handling in kotlin](https://github.com/P4NK4J/Learning_Kotlin)
+  
+### Day 29: May 31, 2019
+   
+**Today's Progress**:  solved partition subset problem using dynamic programming
+
+**Thoughts:** try something new everyday 
+
+**Link to work:**
+  [partition subset problem](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/partition_subset.py)
+  
+### Day 30: June 1, 2019
+   
+**Today's Progress**:  solved a hacker rank problem
+
+**Thoughts:** try something new everyday 
+
+**Link to work:**
+  [super reduced string](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/super_reduced_string.py)
+  
