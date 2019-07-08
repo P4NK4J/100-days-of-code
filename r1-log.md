@@ -69,3 +69,27 @@ worked on python dictionary application
 
 ### R1D22
 worked on python dictionary application
+
+### R1D23
+learned basic codes in kotlin programming language
+
+### R1D24
+learned data types in kotlin
+
+### R1D25
+learned conditional statements in kotlin
+
+### R1D26
+learned functions in kotlin
+
+### R1D27 
+learned oop concepts in kotlin
+
+### R1D28
+learned file handling in kotlin
+
+### R1D29
+solved dynamic programming problem
+
+### R1D30
+solved a hacker rank problem
