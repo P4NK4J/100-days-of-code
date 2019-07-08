@@ -286,3 +286,29 @@
 **Link to work:**
   [super reduced string](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/super_reduced_string.py)
   
+### Day 31: June 2, 2019
+   
+**Today's Progress**:  implementation of website blocking conecpt
+
+**Thoughts:** build and keep buidling.....
+
+**Link to work:**
+  [website blocker in python](https://github.com/P4NK4J/Website_Blocker/blob/master/website_blocker.py)
+  
+### Day 32: June 3, 2019
+   
+**Today's Progress**:  worked on website blocker application developed in python
+
+**Thoughts:** build and keep buidling.....
+
+**Link to work:**
+  [website blocker](https://github.com/P4NK4J/Website_Blocker/blob/master/website_blocker.py)
+  
+### Day 33: June 4, 2019
+   
+**Today's Progress**:  implemented truncation in python to avoid extra memory usage by host file writing
+
+**Thoughts:** build and keep buidling.....
+
+**Link to work:**
+  [website blocker](https://github.com/P4NK4J/Website_Blocker/blob/master/website_blocker.py)
