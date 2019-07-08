@@ -93,3 +93,12 @@ solved dynamic programming problem
 
 ### R1D30
 solved a hacker rank problem
+
+### R1D31
+implemented the idea of blocking website in python
+
+### R1D32
+worked on python website blocker
+
+### R1D33
+implemented truncation in python to avoid memory usage by host file
