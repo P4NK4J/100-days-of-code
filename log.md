@@ -312,3 +312,12 @@
 
 **Link to work:**
   [website blocker](https://github.com/P4NK4J/Website_Blocker/blob/master/website_blocker.py)
+
+### Day 34: June 5, 2019
+   
+**Today's Progress**:  solved the problem of number of ways to cover a distance using DP
+
+**Thoughts:** keep coding 
+
+**Link to work:**
+  [ways to cover a distance](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/ways_to_cover_distance.py)
