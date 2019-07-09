@@ -102,3 +102,6 @@ worked on python website blocker
 
 ### R1D33
 implemented truncation in python to avoid memory usage by host file
+
+### R1D34
+solved the probelm of different ways to cover a distance using DP
