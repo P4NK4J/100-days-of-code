@@ -348,3 +348,21 @@
 
 **Link to work:**
   [0-1 knapsack problem](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/0-1_knapsack_problem.py)
+
+### Day 38: June 9, 2019
+   
+**Today's Progress**:  implemented bubble sort
+
+**Thoughts:** keep coding 
+
+**Link to work:**
+  [Bubble sort](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/Bubble_sort.py)
+
+### Day 39: June 9, 2019
+   
+**Today's Progress**:  implemented Linear search 
+
+**Thoughts:** keep coding 
+
+**Link to work:**
+  [Linear search](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/Linear_search.py)
