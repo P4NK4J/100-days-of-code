@@ -321,3 +321,30 @@
 
 **Link to work:**
   [ways to cover a distance](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/ways_to_cover_distance.py)
+
+### Day 35: June 6, 2019
+   
+**Today's Progress**:  solved longest increasing path in a matrix problem
+
+**Thoughts:** keep coding 
+
+**Link to work:**
+  [LIS in a matrix](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/LIP_in_a_matrix.py)
+
+### Day 36: June 7, 2019
+   
+**Today's Progress**:  solved the problem of lonest path in a matrix
+
+**Thoughts:** keep coding 
+
+**Link to work:**
+  [longest path in a matrix](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/longest_path_in_a_matrix.py)
+  
+### Day 37: June 8, 2019
+   
+**Today's Progress**:  solved the 0-1 knapsack problem using DP
+
+**Thoughts:** keep coding 
+
+**Link to work:**
+  [0-1 knapsack problem](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/0-1_knapsack_problem.py)
