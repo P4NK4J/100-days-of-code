@@ -114,3 +114,9 @@ solved longest path in a matrix using dynamic programming
 
 ### R1D37
 solved 0-1 knapsack problem using DP
+
+### R1D38
+implemented bubble sort
+
+## R1D39
+implemented linear search 
