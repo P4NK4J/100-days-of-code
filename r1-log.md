@@ -105,3 +105,12 @@ implemented truncation in python to avoid memory usage by host file
 
 ### R1D34
 solved the probelm of different ways to cover a distance using DP
+
+### R1D35
+solved the LIP in a matrix using DP
+
+### R1D36
+solved longest path in a matrix using dynamic programming
+
+### R1D37
+solved 0-1 knapsack problem using DP
