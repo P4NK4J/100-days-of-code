@@ -120,3 +120,21 @@ implemented bubble sort
 
 ## R1D39
 implemented linear search 
+
+## R1D40
+binary search recursive and Linear
+
+## R1D41
+job allocation app UI design
+
+## R1D42
+database for job allocation app
+
+## R1D43
+adapter for job allocation app
+
+## R1D44
+connection between activities in the job allocation app
+
+## R1D45
+splash activity in job allocation app
