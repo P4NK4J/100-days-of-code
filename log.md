@@ -373,6 +373,54 @@
 
 **Thoughts:** keep coding 
 
-**Link to work:*
+**Link to work:**
+
   [Binary search iterative](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/Binary_search_iterative.py)
+  
   [Binary search recursive](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/Binary_search_recursive.py)
+  
+### Day 41: June 11, 2019
+   
+**Today's Progress**:  worked on UI of job allocation app 
+
+**Thoughts:** development invokes innovation
+
+**Link to work:**
+  [UI design of Job allocation app](https://github.com/P4NK4J/Android_Kotlin_Job-Allocation_app/tree/master/app/src/main/res)
+  
+### Day 42: June 12, 2019
+   
+**Today's Progress**:  worked on database of job allocation app 
+
+**Thoughts:** development invokes innovation
+
+**Link to work:**
+  [database handler](https://github.com/P4NK4J/Android_Kotlin_Job-Allocation_app/blob/master/app/src/main/java/com/example/android_kotlin_job_allocation_app/data/JobDatabaseHandler.kt)
+  
+### Day 43: June 13, 2019
+   
+**Today's Progress**:  worked on adapter of job allocation app 
+
+**Thoughts:** development invokes innovation
+
+**Link to work:**
+  [job adapter](https://github.com/P4NK4J/Android_Kotlin_Job-Allocation_app/blob/master/app/src/main/java/com/example/android_kotlin_job_allocation_app/data/JobListAdapter.kt)
+
+### Day 44: June 14, 2019
+   
+**Today's Progress**:  worked on connecting database to activities of job allocation app 
+
+**Thoughts:** development invokes innovation
+
+**Link to work:**
+  [connecting activities](https://github.com/P4NK4J/Android_Kotlin_Job-Allocation_app/blob/master/app/src/main/java/com/example/android_kotlin_job_allocation_app/activity/JobList.kt)
+  
+### Day 45: June 15, 2019
+   
+**Today's Progress**:  worked on splash activity of job allocation app 
+
+**Thoughts:** development invokes innovation
+
+**Link to work:**
+  [splash activity](https://github.com/P4NK4J/Android_Kotlin_Job-Allocation_app/blob/master/app/src/main/java/com/example/android_kotlin_job_allocation_app/activity/SplashActivity.kt)
+  
