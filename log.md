@@ -366,3 +366,13 @@
 
 **Link to work:**
   [Linear search](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/Linear_search.py)
+
+### Day 40: June 10, 2019
+   
+**Today's Progress**:  Implemented Binary search 
+
+**Thoughts:** keep coding 
+
+**Link to work:*
+  [Binary search iterative](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/Binary_search_iterative.py)
+  [Binary search recursive](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/Binary_search_recursive.py)
