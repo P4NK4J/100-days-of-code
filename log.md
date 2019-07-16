@@ -424,3 +424,29 @@
 **Link to work:**
   [splash activity](https://github.com/P4NK4J/Android_Kotlin_Job-Allocation_app/blob/master/app/src/main/java/com/example/android_kotlin_job_allocation_app/activity/SplashActivity.kt)
   
+### Day 46: June 16, 2019
+   
+**Today's Progress**:  implemented quick sort
+
+**Thoughts:** complexity should be minimal no matter what you do 
+
+**Link to work:**
+  [quick sort algorithm](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/quick_sort.py)
+  
+### Day 47: June 17, 2019
+   
+**Today's Progress**:  implemented merge sort
+
+**Thoughts:** complexity should be minimal no matter what you do 
+
+**Link to work:**
+  [merge sort algorithm](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/merge_sort.py)
+  
+### Day 48: June 18, 2019
+   
+**Today's Progress**: solved subset sum problem using dynamic programming
+
+**Thoughts:** complexity should be minimal no matter what you do 
+
+**Link to work:**
+  [subset sum problem](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/subset_sum.py)
