@@ -138,3 +138,12 @@ connection between activities in the job allocation app
 
 ### R1D45
 splash activity in job allocation app
+
+### R1D46
+implemented quick sort algorithm 
+
+### R1D47
+implemented merge sort algorithm
+
+### R1D48
+solved subset sum problem using dynamic programming
