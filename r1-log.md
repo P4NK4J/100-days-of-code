@@ -147,3 +147,15 @@ implemented merge sort algorithm
 
 ### R1D48
 solved subset sum problem using dynamic programming
+
+### R1D49
+implemented insertion sort
+
+### R1D50
+implemented heap sort
+
+### R1D51
+implemented selection sort
+
+### R1D52
+implemented counting sort
