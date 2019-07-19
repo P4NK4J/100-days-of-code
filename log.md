@@ -450,3 +450,39 @@
 
 **Link to work:**
   [subset sum problem](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/subset_sum.py)
+
+### Day 49: June 19, 2019
+   
+**Today's Progress**: implemented insertion sort
+
+**Thoughts:** complexity should be minimal no matter what you do 
+
+**Link to work:**
+  [insertion sort](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/insertion_sort.py)
+  
+### Day 50: June 20, 2019
+   
+**Today's Progress**: implemented heap sort
+
+**Thoughts:** complexity should be minimal no matter what you do 
+
+**Link to work:**
+  [heap short](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/heap_sort.py)
+  
+### Day 51: June 21, 2019
+   
+**Today's Progress**: implemented selection sort
+
+**Thoughts:** complexity should be minimal no matter what you do 
+
+**Link to work:**
+  [selection sort](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/selection_sort.py)
+  
+### Day 52: June 22, 2019
+   
+**Today's Progress**: implemented counting sort
+
+**Thoughts:** complexity should be minimal no matter what you do 
+
+**Link to work:**
+  [counting sort](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/counting_sort.py)
