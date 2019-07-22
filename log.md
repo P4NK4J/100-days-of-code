@@ -486,3 +486,48 @@
 
 **Link to work:**
   [counting sort](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/counting_sort.py)
+
+### Day 53: June 23, 2019
+   
+**Today's Progress**: designed UI for my cuisine app
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [cuisine app UI](https://github.com/P4NK4J/android_kotlin_Cuisine_app/tree/master/app/src/main/res)
+  
+### Day 54: June 24, 2019
+   
+**Today's Progress**: worked on recycler adapter of cuisine app
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [recycler adapter for cuisine app](https://github.com/P4NK4J/android_kotlin_Cuisine_app/blob/master/app/src/main/java/com/example/cuisine/activity/data/RecipeListAdapter.kt)
+  
+### Day 55: June 25, 2019
+   
+**Today's Progress**: worked on listview of cuisine app
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [list view of cuisine app](https://github.com/P4NK4J/android_kotlin_Cuisine_app/blob/master/app/src/main/java/com/example/cuisine/activity/activity/RecipeList.kt)
+  
+### Day 56: June 26, 2019
+   
+**Today's Progress**: worked on connecting all the activities in cuisine app
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [connecting activities of cuisine app](https://github.com/P4NK4J/android_kotlin_Cuisine_app/blob/master/app/src/main/java/com/example/cuisine/activity/activity/MainActivity.kt)
+  
+### Day 57: June 27, 2019
+   
+**Today's Progress**: designed splash activity for cuisine app
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [splash activity](https://github.com/P4NK4J/android_kotlin_Cuisine_app/blob/master/app/src/main/java/com/example/cuisine/splashActivity.kt)
