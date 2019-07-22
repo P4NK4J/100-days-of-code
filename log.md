@@ -531,3 +531,12 @@
 
 **Link to work:**
   [splash activity](https://github.com/P4NK4J/android_kotlin_Cuisine_app/blob/master/app/src/main/java/com/example/cuisine/splashActivity.kt)
+
+### Day 58: June 28, 2019
+   
+**Today's Progress**: implemented bucket sort
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [bucket sort](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/bucket_sort.py)
