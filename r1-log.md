@@ -159,3 +159,21 @@ implemented selection sort
 
 ### R1D52
 implemented counting sort
+
+### R1D53
+designed UI for cuisine app
+
+### R1D54
+designed adapter for recyler view in cuisine app
+
+### R1D55
+designed listview for cuisine app
+
+### R1D56 
+connected all activities of cuisine app
+
+### R1D57 
+designed splash activity for cuisine app
+
+### R1D58
+implemented bucket sort
