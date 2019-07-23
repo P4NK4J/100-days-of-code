@@ -540,3 +540,22 @@
 
 **Link to work:**
   [bucket sort](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/bucket_sort.py)
+
+
+### Day 59: June 29, 2019
+   
+**Today's Progress**: KMP algorithm for pattern searching
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [KMP algorithm](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/KMP_algorithm.py)
+  
+### Day 60: June 30, 2019
+   
+**Today's Progress**: Rabin karp algorithm for pattern searching
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [Rabin Karp algorithm](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/rabin_karp_algorithm.py)
