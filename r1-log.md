@@ -177,3 +177,9 @@ designed splash activity for cuisine app
 
 ### R1D58
 implemented bucket sort
+
+### R1D59
+implemented KMP algorithm
+
+### R1D60
+implemented Rabin Karp algorithm
