@@ -183,3 +183,6 @@ implemented KMP algorithm
 
 ### R1D60
 implemented Rabin Karp algorithm
+
+### R1D61
+solved fractional knapsack using greedy approach
