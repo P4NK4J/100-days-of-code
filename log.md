@@ -559,3 +559,12 @@
 
 **Link to work:**
   [Rabin Karp algorithm](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/rabin_karp_algorithm.py)
+
+### Day 61: June 31, 2019
+   
+**Today's Progress**: Rabin karp algorithm for pattern searching
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [fractional knapsack](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/fractional_knapsack.py)
