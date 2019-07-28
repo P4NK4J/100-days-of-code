@@ -560,11 +560,40 @@
 **Link to work:**
   [Rabin Karp algorithm](https://github.com/P4NK4J/Algorithms/blob/master/Searching%20and%20Sorting/rabin_karp_algorithm.py)
 
-### Day 61: June 31, 2019
+### Day 61: July 1, 2019
    
-**Today's Progress**: Rabin karp algorithm for pattern searching
+**Today's Progress**: fractional knapsack problem
 
 **Thoughts:** thinking is good for brain 
 
 **Link to work:**
   [fractional knapsack](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/fractional_knapsack.py)
+  
+### Day 62: July 2, 2019
+   
+**Today's Progress**: job sequencing with deadline
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [job sequencing](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/job_sequencing.py)
+  
+### Day 63: July 3, 2019
+   
+**Today's Progress**: activity selection problem using greedy approach
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [activity selection](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/activity_selection.py)
+  
+### Day 64: July 4, 2019
+   
+**Today's Progress**: train arrival delay problem using greedy approach
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [train arrival](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/train_arrival_delay.py)
+
+
