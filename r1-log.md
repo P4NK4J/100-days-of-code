@@ -186,3 +186,13 @@ implemented Rabin Karp algorithm
 
 ### R1D61
 solved fractional knapsack using greedy approach
+
+### R1D62
+solved job sequencing problem using greedy approach
+
+### R1D63
+solved activity selection problem using greedy approach
+
+### R1D64
+solved train arrival delay problem using greedy approach
+
