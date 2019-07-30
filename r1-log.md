@@ -196,3 +196,9 @@ solved activity selection problem using greedy approach
 ### R1D64
 solved train arrival delay problem using greedy approach
 
+### R1D65
+solved minimum coins problem using greedy approach
+
+### R1D66
+solved codechef practice problem
+
