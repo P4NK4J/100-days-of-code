@@ -596,4 +596,21 @@
 **Link to work:**
   [train arrival](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/train_arrival_delay.py)
 
+### Day 65: July 5, 2019
+   
+**Today's Progress**: minimum coins problem using greedy approach
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [minimum coins problem](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/minimum_coins_problem.py)
+  
+### Day 65: July 6, 2019
+   
+**Today's Progress**: solved practice problem EASY MATH on codechef
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [easy math](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/Easy_math.py)
 
