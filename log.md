@@ -613,4 +613,33 @@
 
 **Link to work:**
   [easy math](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/Easy_math.py)
+  
+### Day 67: July 7, 2019
+   
+**Today's Progress**: solved fitting shelves problem using greedy approach
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [fitting shelves greedy](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/fitting_shelves_problem.py)
+
+### Day 68: July 9, 2019
+   
+**Today's Progress**: solved police catches thieves problem using greedy approach
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [police catches thieves](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/police_catches_thieves.py)
+  
+### Day 69: July 10, 2019
+   
+**Today's Progress**: solved codechef problem using greedy approach
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [football](https://www.codechef.com/AUG19B/problems/MSNSADM1) - [my solution](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/football.py)
+
+
 
