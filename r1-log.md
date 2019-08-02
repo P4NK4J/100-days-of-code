@@ -202,3 +202,12 @@ solved minimum coins problem using greedy approach
 ### R1D66
 solved codechef practice problem
 
+### R1D67
+solved fitting shelves problem using greedy approach
+
+### R1D68
+solved police catches thieves problem using greedy approach
+
+### R1D69
+solved codechef long contest problem
+
