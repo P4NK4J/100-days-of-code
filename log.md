@@ -641,5 +641,32 @@
 **Link to work:**
   [football](https://www.codechef.com/AUG19B/problems/MSNSADM1) - [my solution](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/football.py)
 
+### Day 70: July 11, 2019
+   
+**Today's Progress**: solved codechef problem 
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [devu and friendship test](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/devu_and_friendship_test.py)
+
+### Day 71: July 12, 2019
+   
+**Today's Progress**: solved codechef problem 
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [distribute apples](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/distribute_apples.py)
+  
+### Day 72: July 13, 2019
+   
+**Today's Progress**: Egg dropping problem using DP
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [egg dropping problem](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/egg_dropping_puzzle.py)
+
 
 
