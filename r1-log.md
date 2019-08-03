@@ -211,3 +211,11 @@ solved police catches thieves problem using greedy approach
 ### R1D69
 solved codechef long contest problem
 
+### R1D70
+solved a codechef problem
+
+### R1D71 
+solved a codechef problem
+
+### R1D72 
+solved Egg dropping problem using DP
