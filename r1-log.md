@@ -223,12 +223,12 @@ solved Egg dropping problem using DP
 ### R1D73
 solved rod cutting problem using DP
 
-### R1D73
+### R1D74
 solved minimum sum of products problem using greedy approach
 
-### R1D74
+### R1D75
 solved egyptian fraction using greedy approach
 
-### R1D75
+### R1D76
 solved codechef august challenge problem
 
