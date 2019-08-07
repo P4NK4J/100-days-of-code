@@ -668,5 +668,40 @@
 **Link to work:**
   [egg dropping problem](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/egg_dropping_puzzle.py)
 
+### Day 73: July 14, 2019
+   
+**Today's Progress**: rod cutting problem
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [rod cutting problem](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/rod_cutting_problem.py)
+  
+### Day 74: July 15, 2019
+   
+**Today's Progress**: minimum sum of products of array using greedy approach
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [minimum sum of products](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/minimum_sum_of_products_of_array.py)
+  
+### Day 75: July 16, 2019
+   
+**Today's Progress**: egyptian fraction using greedy approach
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [egyptian fraction](https://github.com/P4NK4J/Algorithms/blob/master/Greedy%20problems/egyptian_fraction.py)
+  
+### Day 76: July 17, 2019
+   
+**Today's Progress**: Dilemma problem from codechef august challenge
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [Dilemma](https://www.codechef.com/AUG19B/problems/CHEFDIL) - [my solution](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/Dilemma.py)
 
 
