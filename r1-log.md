@@ -232,3 +232,9 @@ solved egyptian fraction using greedy approach
 ### R1D76
 solved codechef august challenge problem
 
+### R1D77
+solved matrix chain multiplication using DP
+
+### R1D78
+solved codechef practice problem
+
