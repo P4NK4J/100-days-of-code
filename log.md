@@ -704,7 +704,7 @@
 **Link to work:**
   [Dilemma](https://www.codechef.com/AUG19B/problems/CHEFDIL) - [my solution](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/Dilemma.py)
 
-### Day 77: July 18, 2019
+### Day 78: July 18, 2019
    
 **Today's Progress**: matrix chain multiplication using DP
 
@@ -713,7 +713,7 @@
 **Link to work:**
   [matrix chain multiplication](https://github.com/P4NK4J/Algorithms/blob/master/Dynamic%20Programming/matrix_chain_multiplication.py)
   
-### Day 77: July 18, 2019
+### Day 79: July 19, 2019
    
 **Today's Progress**: codechef problem
 
@@ -722,3 +722,11 @@
 **Link to work:**
   [coins and triangle](https://www.codechef.com/problems/TRICOIN) - [my solution](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/coins_and_traingles.py)
 
+### Day 80: July 20, 2019
+   
+**Today's Progress**: codechef problem
+
+**Thoughts:** thinking is good for brain 
+
+**Link to work:**
+  [chef and serves](https://www.codechef.com/problems/CHSERVE) - [my solution](https://github.com/P4NK4J/Competitive_Coding/blob/master/practice%20problems/beginner/chef_and_serves.py)
